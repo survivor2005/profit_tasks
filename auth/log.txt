@@ -1,0 +1,2 @@
+2020-10-15 00:22:55: admin D:\dev\lesson5\gallery/images/Raspisanie_plitka.jpg
+2020-10-15 00:23:35: admin D:\dev\lesson5\gallery/images/screen2.png
